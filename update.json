@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0",
+  "version": "2.1.0",
   "minimum_supported_version": "1.0.0",
-  "release_date": "2026-08-14T14:08:11Z",
-  "download_url": "https://github.com/Priyanshu-x/WFA-Releases/releases/download/v2.0.0/WFA-Setup-v2.0.0.exe",
-  "sha256": "a826a71bda52d11ba6a0775d85cb10724415f5e595150181298abfba25593d29",
-  "signature": "42b78523ccd8e91435b9b8ffec86a959705bc9f254b222240c995a7b3817f029a6b893e0d239a1c723966d05d1bbeadd2e4443d72bdfc7828d419fd7ff37b502",
+  "release_date": "2026-08-14T18:43:20Z",
+  "download_url": "https://github.com/Priyanshu-x/WFA-Releases/releases/download/v2.1.0/WFA-Setup-v2.0.0.exe",
+  "sha256": "4da5f3ff593b3c4ca463e48ad4c531a59a8d1afe8d13fae5028f69e06ca2120c",
+  "signature": "d7d1a68750c26c0f1251f445558cd7ce44e451ec69db8bf3f01010450d53bcc4943a8ed86ef4c56b546fe384e57a3e642a889e81dcdca7f83d50185fbf979b0a",
   "release_notes": "Bug fixes and improvements."
 }
