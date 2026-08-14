@@ -1,0 +1,9 @@
+{
+  "version": "2.0.0",
+  "minimum_supported_version": "1.0.0",
+  "release_date": "2026-08-14T14:08:11Z",
+  "download_url": "https://github.com/Priyanshu-x/WFA-Releases/releases/download/v2.0.0/WFA-Setup-v2.0.0.exe",
+  "sha256": "a826a71bda52d11ba6a0775d85cb10724415f5e595150181298abfba25593d29",
+  "signature": "42b78523ccd8e91435b9b8ffec86a959705bc9f254b222240c995a7b3817f029a6b893e0d239a1c723966d05d1bbeadd2e4443d72bdfc7828d419fd7ff37b502",
+  "release_notes": "Bug fixes and improvements."
+}
