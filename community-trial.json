@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "active": true,
-  "token": "WFA-TRIAL-SEP-2026",
-  "expires_at": "2026-09-30T23:59:59Z"
+  "active": false,
+  "token": "",
+  "expires_at": null
 }
